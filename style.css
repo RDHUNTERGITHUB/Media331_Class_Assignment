@@ -1,0 +1,12 @@
+video{
+    overflow: hidden;
+}
+
+input{
+   display: inline-block;
+    padding: 1%;
+}
+
+input:hover{
+    opacity: 0.6;
+}
